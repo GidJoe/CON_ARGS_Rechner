@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CON_ARGS_Rechner": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}
